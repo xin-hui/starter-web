@@ -7,9 +7,9 @@ This is an example to show different parts of the Git repo
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos!
 
 ## Deployment
-This is a simple web project to show how github works
+This is a simple web project to show how github works.
 
 ## How to contribute
