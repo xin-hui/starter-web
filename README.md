@@ -13,3 +13,7 @@ Sample website with plenty of files for demos!
 This is a simple web project to show how github works.
 
 ## How to contribute
+
+### Copyright 
+
+2014 Git.Training
