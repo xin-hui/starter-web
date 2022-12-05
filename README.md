@@ -13,6 +13,7 @@ Sample website with plenty of files for demos!
 This is a simple web project to show how github works.
 
 ## How to contribute
+Please fork and issue pul request for review
 
 ### Copyright 
 
