@@ -19,4 +19,4 @@ Please fork and issue pul request for review
 
 ### Copyright 
 
-2014 Git.Training
+2014 Git.Training. ALl rights reserved
