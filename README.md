@@ -3,6 +3,7 @@
 This is a simple website project showing how Git and GitHub work.
  Adding a line for rebasing example
  More changes
+ Update for emergency fix
 
 ## Introduction
 This is an example to show different parts of the Git repo
